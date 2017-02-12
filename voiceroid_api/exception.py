@@ -1,0 +1,2 @@
+class VoiceroidError(BaseException):
+    pass
